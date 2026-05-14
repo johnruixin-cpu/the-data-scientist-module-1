@@ -1,6 +1,0 @@
-Total messages: 4
-
-Messages by sender:
- - alice: 2
- - bob: 1
- - carol: 1

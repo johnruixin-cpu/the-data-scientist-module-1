@@ -1,6 +1,0 @@
-events = ["train:delays", "train:on_time", "hotel:check_in", "train:delays",
-           "snack:coffee", "train:on_time", "hotel:check_out", 
-           "snack:tea", "train:delays"]
-
-more_events = ["walk:city", "walk:park", "photo:landscape", 
-               "photo:cafe", "train:on_time"]
