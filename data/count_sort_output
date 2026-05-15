@@ -1,0 +1,3 @@
+{'train': 5, 'hotel': 2, 'snack': 2}
+{'walk': 2, 'photo': 2, 'train': 1}
+[('train', 5), ('hotel', 2), ('snack', 2)]
